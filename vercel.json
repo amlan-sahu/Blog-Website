@@ -3,6 +3,4 @@
       { "source": "/(.*)", "destination": "/index.html" }
     ]
   }
-  ```[_{{{CITATION{{{_2{Resolving “Page Not Found” on Vercel After Refreshing Non-Source Pages](https://blog.walterclayton.com/resolving-page-not-found-on-vercel-after-refreshing-non-source-pages/)
   
-  ```
