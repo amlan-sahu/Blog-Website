@@ -77,6 +77,8 @@ const router = createBrowserRouter([
     },
 ])
 
+<script type="module"> import { loadTinyMCE } from './src/loadTinyMCE.js'; loadTinyMCE(); </script>
+
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
         <Provider store={store}>
